@@ -1,4 +1,4 @@
-# chriszubke
+# chris zubke
 Basic writing and formatting syntax
 In this article
 Headings
